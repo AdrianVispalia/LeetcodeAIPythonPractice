@@ -21,7 +21,7 @@ wheels = [
 ]
 
 [[package]]
-name = "leetcode-training"
+name = "leetcodeaipythonpractice"
 version = "0.1.0"
 source = { virtual = "." }
 
