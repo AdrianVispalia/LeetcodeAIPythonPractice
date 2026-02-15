@@ -1,0 +1,12 @@
+[project]
+name = "LeetcodeAIPythonPractice"
+version = "0.1.0"
+description = "Use AI to give you leetcode problems &amp; tests. Program the answer in Python, ask the AI model to help you if you are stuck and let the AI evaluate your answer."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
